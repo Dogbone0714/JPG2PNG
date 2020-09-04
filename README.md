@@ -6,7 +6,7 @@
 
 ## Reference
 
-PIL [參考連結](https://pypi.org/project/Pillow/).
-Python Tkinter 給窗口加連結 [參考連結](https://zhidao.baidu.com/question/119814361.html)
+*PIL [參考連結](https://pypi.org/project/Pillow/).
+*Python Tkinter 給窗口加連結 [參考連結](https://zhidao.baidu.com/question/119814361.html)
 
 
